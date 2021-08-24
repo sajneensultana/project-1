@@ -138,6 +138,8 @@ a:hover
 .single-product{
     position: relative;
     overflow: hidden;
+
+   
 }
 .price{
     width: 40px;
